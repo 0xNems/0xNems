@@ -4,3 +4,5 @@
 <!---
 Oublie pas de me donner des conseilles sur discord 
 --->
+
+https://discord.gg/jPxA278d3P
