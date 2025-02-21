@@ -4,4 +4,5 @@
 <!---
 Oublie pas de me donner des conseilles sur discord 
 --->
+## 🌐 Socials:
 [![Discord]](https://discord.gg/jPxA278d3P)
