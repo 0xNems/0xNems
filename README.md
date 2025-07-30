@@ -21,5 +21,3 @@ I'm a developer passionate about automation and creating Discord bots in Python 
 > ⭐️ Feel free to explore my repositories and contribute!
 
 ---
-
-Let me know if you’d like any more changes!
