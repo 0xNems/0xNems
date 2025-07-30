@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @0xNems
-- 👀 je suis intéressé par les animé, les création de serveur...
-- j'apprends le codages de serveur minecraft, de bot...
-- je fais aussi de beau serveur discord (Salon, Catégorie, Vocal et les rôles)
-<!---
-Oublie pas de me donner des conseilles sur discord 
---->
-## 🌐 Socials:
-[Discord](https://discord.gg/jPxA278d3P)
+
+# Hi, I'm 0xNems 👋
+
+Welcome to my GitHub profile!  
+I'm a developer passionate about automation and creating Discord bots in Python using Visual Studio Code. 🚀
+
+## 👨‍💻 About Me
+
+- 🔭 I work on projects related to automation and Discord bots  
+- 🐍 Creator of Discord bots in Python  
+- 🖥️ Visual Studio Code is my main coding environment  
+- 🌱 Always learning new technologies and tools  
+- 🛠️ Stack: Python, JS/TS, Solidity, Shell, Linux, Docker...
+
+## 📫 Contact
+
+- Discord: **nems77hihi**
+
+---
+
+> ⭐️ Feel free to explore my repositories and contribute!
+
+---
+
+Let me know if you’d like any more changes!
